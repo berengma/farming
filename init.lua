@@ -686,6 +686,7 @@ ddoo("pineapple.lua", farming.pineapple)
 ddoo("peas.lua", farming.peas)
 ddoo("beetroot.lua", farming.beetroot)
 ddoo("chili.lua", farming.chili)
+-- make them equal to barley
 ddoo("rice.lua", farming.grains)
 ddoo("rye.lua", farming.grains)
 ddoo("oats.lua", farming.grains)
