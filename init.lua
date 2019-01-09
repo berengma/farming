@@ -686,7 +686,10 @@ ddoo("pineapple.lua", farming.pineapple)
 ddoo("peas.lua", farming.peas)
 ddoo("beetroot.lua", farming.beetroot)
 ddoo("chili.lua", farming.chili)
-ddoo("ryeoatrice.lua", farming.grains)
+ddoo("rice.lua", farming.grains)
+ddoo("rye.lua", farming.grains)
+ddoo("oats.lua", farming.grains)
+
 
 dofile(farming.path.."/food.lua")
 dofile(farming.path.."/mapgen.lua")
